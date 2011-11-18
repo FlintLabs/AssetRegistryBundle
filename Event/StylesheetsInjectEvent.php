@@ -1,15 +1,8 @@
 <?php
-/**
- * Created by JetBrains PhpStorm.
- * User: flint
- * Date: 18/11/11
- * Time: 11:46 AM
- * To change this template use File | Settings | File Templates.
- */
 
 namespace FlintLabs\Bundle\AssetRegistryBundle\Event;
 
-use \FlintLabs\Bundle\AssetRegistryBundle\Services\AssetRegistryServiceInterface;
+use FlintLabs\Bundle\AssetRegistryBundle\Services\AssetRegistryServiceInterface;
 
 class StylesheetsInjectEvent {
 
